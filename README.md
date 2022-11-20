@@ -81,7 +81,7 @@ endmodule
 ![output](truth_table.png)
 ## RTL realization
 ### RTL
-![output](RTL_realization.png)
+![image](https://user-images.githubusercontent.com/93427303/202901894-f6727763-c19a-4d77-8b59-b333e346658c.png)
 
 
 # Result:
